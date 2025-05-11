@@ -184,6 +184,44 @@ public class StarBuzzCoffee {
 ```
 
 
+Toolbox
+
+oo principles 
+
+1. Encapsulate what varies
+
+2. favor composition over inheritance
+
+3. program to interface, not implementation
+
+4. strive for loosely coupled designs
+
+5. class should be open for extension and closed for modification.
+
+
+
+Decorator Patterns : Behavior.
+
+Attach additional responsibilites to an object dynamically.
+Decorator provide a flexible alternative to subclassing for extending functionality.
+
+
+bullpoints
+
+
+- inheritance is on form of extention
+
+- extend behavior without modifying existing code.
+
+- composition and delegation used to add new behavior at runtime.
+
+- Decoratr is alternative to subclassing
+
+- wrap concrete components
+
+- decorator are transparent to the client
+
+
 
 
 
